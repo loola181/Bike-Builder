@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# IDE
+.idea/
+*.iml
+
+# Local
+local.properties
+
+# OS
+.DS_Store
+
+# Bundled tools
+.tools/
+
+# Design artifacts & screenshots
+artifacts_*.png
+artifacts_*.svg
+store-assets/
+tmp_assets/
